@@ -3,8 +3,9 @@
 Bem-vindo(a) ao meu perfil do GitHub! 👋🏻
 
 ## Sobre Mim
-
-- 👩🏻‍💻 Aluna de Desenvolvimento Front-end da [Alura](https://www.alura.com.br/)
+- 👩🏻 Tenho 22 anos
+- 🏙 Resido em São Paulo
+- 👩🏻‍💻 Sou aluna de Desenvolvimento Front-end da [Alura](https://www.alura.com.br/)
 
 Sou uma entusiasta de desenvolvimento front-end, apaixonada por criar interfaces incríveis e responsivas. Atualmente, estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript.
 
