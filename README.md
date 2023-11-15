@@ -1,6 +1,6 @@
 # Olá, eu sou a Nath!
 
-Bem-vindo ao meu perfil do GitHub! 👋🏻
+Bem-vindo(a) ao meu perfil do GitHub! 👋🏻
 
 ## Sobre Mim
 
