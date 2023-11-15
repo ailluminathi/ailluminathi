@@ -16,8 +16,8 @@ Alguns dos meus projetos mais destacados:
 - [Portifólio](https://ailluminathi.github.io/Alura//Curso%20HTML/portfolio/index.html) <br>
 - [Alura Plus](https://ailluminathi.github.io/Alura/Curso%20HTML/Praticando%20HTML%20CSS/Alura%20Plus/index.html) <br>
 - [Batalha dos frameworks](https://ailluminathi.github.io/Alura/Curso%20HTML/Projetos/Efeito%20rotate/index.html) <br>
-- [Alura Play](https://ailluminathi.github.io/Alura/Outros%20Cursos/Flexbox/index.html) <br>
 - [WaveCast](https://ailluminathi.github.io/Alura/Outros%20Cursos/WaveCast/index.html) <br>
+- [Alura Play](https://ailluminathi.github.io/Alura/Outros%20Cursos/Flexbox/index.html) <br>
 
 Todos esses projetos criei de forma totalmente responsiva durante os meus cursos.
 
