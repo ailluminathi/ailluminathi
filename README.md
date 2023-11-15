@@ -22,7 +22,7 @@ Todos esses projetos criei de forma totalmente responsiva durante os meus cursos
 
 ## Contato
 
-- 📧 E-mail: ailluminathi@gmail.com
+- 📧 ailluminathi@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathalisantos9/)
 - 📷 [Instagram](https://www.instagram.com/ailluminathi/)
 
