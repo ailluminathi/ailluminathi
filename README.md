@@ -26,7 +26,7 @@ Todos esses projetos criei de forma totalmente responsiva durante os meus cursos
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathalisantos9/)
 - 📷 [Instagram](https://www.instagram.com/ailluminathi/)
 
-Estou sempre animada para aprender mais e colaborar em projetos interessantes. Se você estiver interessado em projetos front-end ou tiver dicas para o meu aprendizado, ficarei feliz em ouvir!
+Estou sempre animada para aprender mais e colaborar em projetos interessantes. Se você estiver interessado em projetos front-end ficarei feliz em ajudar!
 
 ## Agradecimentos
 
