@@ -1,4 +1,4 @@
-<h1>Olá, eu sou a Nath!</h1>
+<h1>Olá!</h1>
 
 <p>Bem-vindo(a) ao meu perfil do GitHub! 👋🏻</p>
 
