@@ -17,7 +17,7 @@ Sou uma entusiasta de desenvolvimento front-end, apaixonada por criar interfaces
 <p>Alguns dos meus projetos mais destacados:</p>
 <ul>
 <li><a href="https://ailluminathi.github.io/Loja/projeto/paginas/login.html">Tela de Login</a>
-<li><a href="https://ailluminathi.github.io/Alura//Curso%20HTML/portfolio/index.html">Portifólio</a>
+<li><a href="https://ailluminathi.github.io/Alura//Curso%20HTML/portfolio/index.html">Portfólio</a>
 <li><a href="https://ailluminathi.github.io/Alura/Curso%20HTML/Praticando%20HTML%20CSS/Alura%20Plus/index.html">Alura+</a>
 <li><a href="https://ailluminathi.github.io/Alura/Curso%20HTML/Projetos/Efeito%20rotate/index.html">Batalha dos frameworks</a>
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/WaveCast/index.html">WaveCast</a>
