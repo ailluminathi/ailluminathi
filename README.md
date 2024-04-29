@@ -22,6 +22,7 @@ Sou uma entusiasta de desenvolvimento front-end, apaixonada por criar interfaces
 <li><a href="https://ailluminathi.github.io/Alura/Curso%20HTML/Projetos/Efeito%20rotate/index.html">Batalha dos frameworks</a>
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/WaveCast/index.html">WaveCast</a>
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Flexbox/index.html">Alura Play</a>
+<li><a href="https://ailluminathi.github.io/Alura/Curso%20JavaScript/JavaScript/aluramidi-curso-arquivos-iniciais/index.html">Alura Midi</a>
 </ul>
 <p>Todos esses projetos criei de forma totalmente responsiva durante os meus cursos.</p>
 </div>
