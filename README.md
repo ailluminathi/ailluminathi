@@ -5,8 +5,8 @@
 <div>
 <h2>Sobre Mim</h2>
 <ul>
-<li>👩🏻 Tenho 22 anos
-<li>🏙 Resido em São Paulo
+<li>👩🏻 Tenho 23 anos
+<li>🏙 Moro em São Paulo
 <li>👩🏻‍💻 Sou aluna de Desenvolvimento Front-end da <a href="https://www.alura.com.br/">Alura</a>
 </ul>
 Sou uma entusiasta de desenvolvimento front-end, apaixonada por criar interfaces incríveis e responsivas. Atualmente, estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript.
@@ -23,6 +23,9 @@ Sou uma entusiasta de desenvolvimento front-end, apaixonada por criar interfaces
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/WaveCast/index.html">WaveCast</a>
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Flexbox/index.html">Alura Play</a>
 <li><a href="https://ailluminathi.github.io/Alura/Curso%20JavaScript/JavaScript/aluramidi-curso-arquivos-iniciais/index.html">Alura Midi</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Curso%20SASS/Calmaria%20spa/index.html">Calmaria</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Tailwind/alura-newsletter/index.html">Alura Newsletter</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Praticando%20CSS/Culturama/index.html">Culturama</a>
 </ul>
 <p>Todos esses projetos criei de forma totalmente responsiva durante os meus cursos.</p>
 </div>
