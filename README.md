@@ -2,7 +2,7 @@
 
 ###
 
-<p>Me chamo Náthali, tenho 23 anos e sou uma estudante apaixonada por desenvolvimento front-end, com dois anos de experiência em estudo e prática de HTML, CSS e JavaScript. Desde outubro de 2023, estou aprimorando minhas habilidades na <b>Alura</b> e atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Estácio de Sá</b>.</p>
+<p>Me chamo Náthali, tenho 23 anos e sou uma estudante apaixonada por desenvolvimento front-end, com dois anos de experiência em estudo e prática de HTML, CSS e JavaScript. Desde outubro de 2023, estou aprimorando minhas habilidades na _**Alura**_ e atualmente estou cursando _**Análise e Desenvolvimento de Sistemas**_ na _**Universidade Estácio de Sá**_.</p>
 
 ###
 
