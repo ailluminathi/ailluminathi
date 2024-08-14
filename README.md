@@ -7,8 +7,8 @@
 
 ###
 
-<p>Confira alguns dos projetos que eu realizei durante os meus cursos da Alura:</p>
-<li><a href="https://ailluminathi.github.io/Alura//Curso%20HTML/portfolio/index.html">Projeto Portfólio</a>
+<p>Confira alguns dos projetos que eu realizei durante os meus cursos da <ins><b>Alura</b></ins>:</p>
+<li><a href="https://ailluminathi.github.io/Alura//Curso%20HTML/portfolio/index.html" target="_blank">Projeto Portfólio</a>
 <li><a href="https://ailluminathi.github.io/Alura/Curso%20HTML/Praticando%20HTML%20CSS/Alura%20Plus/index.html">Projeto Alura Plus</a>
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Flexbox/index.html">Projeto Alura Play</a>
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/WaveCast/index.html">Projeto Wavecast</a>
