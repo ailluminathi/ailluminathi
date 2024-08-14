@@ -13,7 +13,8 @@
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Tailwind/alura-newsletter/index.html">Projeto Alura Newsletter</a>
 <li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Praticando%20CSS/Culturama/index.html">Projeto Culturama</a>
 
-<br>
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ailluminathi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
