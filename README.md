@@ -2,7 +2,9 @@
 
 ###
 
-<p>Sou uma estudante apaixonada por desenvolvimento front-end, com dois anos de experiência em estudo e prática de HTML, CSS e JavaScript. Desde outubro de 2023, estou aprimorando minhas habilidades na <b>Alura</b> e atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Estácio de Sá</b>.</p>
+<p>Me chamo Náthali, tenho 23 anos e sou uma estudante apaixonada por desenvolvimento front-end, com dois anos de experiência em estudo e prática de HTML, CSS e JavaScript. Desde outubro de 2023, estou aprimorando minhas habilidades na <b>Alura</b> e atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Estácio de Sá</b>.</p>
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ailluminathi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
