@@ -4,9 +4,16 @@
 <p>Me chamo Náthali, tenho 23 anos e sou uma estudante apaixonada por desenvolvimento front-end, com dois anos de experiência em estudo e prática de HTML, CSS e JavaScript. Desde 2023 estou aprimorando minhas habilidades na <ins><b>Alura</b></ins> e atualmente estou cursando <ins><b>Análise e Desenvolvimento de Sistemas</b></ins> na <ins><b>Universidade Estácio de Sá</b></ins>.
 </p><br>
 
-<p>Confira os projetos que eu já realizei durante os cursos:</p> <br>
-<li><a href="aaaa">teste</a>
+<p>Confira os projetos que eu já realizei durante os cursos:</p>
+<li><a href="https://ailluminathi.github.io/Alura//Curso%20HTML/portfolio/index.html">Projeto Portfólio</a>
+<li><a href="https://ailluminathi.github.io/Alura/Curso%20HTML/Praticando%20HTML%20CSS/Alura%20Plus/index.html">Projeto Alura Plus</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Flexbox/index.html">Projeto Alura Play</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/WaveCast/index.html">Projeto Wavecast</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Curso%20SASS/Calmaria%20spa/index.html">Projeto Calmaria Spa</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Tailwind/alura-newsletter/index.html">Projeto Alura Newsletter</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Praticando%20CSS/Culturama/index.html">Projeto Culturama</a>
 
+<br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ailluminathi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
