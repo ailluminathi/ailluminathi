@@ -17,12 +17,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ailluminathi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.imgur.com/j8CJy0V.png"  />
 
 ###
@@ -65,6 +59,12 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ailluminathi/ailluminathi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ailluminathi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
