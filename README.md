@@ -1,1 +1,74 @@
-...
+<h2 align="left">Olá mundo 👋!</h2>
+
+###
+
+<p>Me chamo Náthali, tenho 23 anos e sou uma estudante apaixonada por desenvolvimento front-end, com dois anos de experiência em estudo e prática de HTML, CSS e JavaScript. Estou aprimorando minhas habilidades na <ins><b>Alura</b></ins> e atualmente estou cursando <ins><b>Análise e Desenvolvimento de Sistemas</b></ins> na <ins><b>Universidade Estácio de Sá</b></ins>.
+</p>
+
+###
+
+<p>Confira alguns dos projetos que eu realizei durante os meus cursos da <ins><b>Alura</b></ins>:</p>
+<li><a href="https://ailluminathi.github.io/Alura/Curso%20HTML/Praticando%20HTML%20CSS/Alura%20Plus/index.html">Projeto Alura Plus</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Flexbox/index.html">Projeto Alura Play</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/WaveCast/index.html">Projeto Wavecast</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Curso%20SASS/Calmaria%20spa/index.html">Projeto Calmaria Spa</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Tailwind/alura-newsletter/index.html">Projeto Alura Newsletter</a>
+<li><a href="https://ailluminathi.github.io/Alura/Outros%20Cursos/Praticando%20CSS/Culturama/index.html">Projeto Culturama</a>
+<li><a href="https://lore-of-legends.vercel.app/">Projeto Lore Of Legends</a>
+
+###
+
+<img align="right" height="150" src="https://i.imgur.com/j8CJy0V.png"  />
+
+###
+<br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<h3>Contato:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/nathalisantos9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ailluminathi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:ailluminathi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ailluminathi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ailluminathi/ailluminathi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ailluminathi.ailluminathi&left_color=black&right_color=lightgreen&left_text=Visitantes"  />
+
+###
